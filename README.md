@@ -49,7 +49,6 @@ Important: all `VITE_*` values are public.
 - `public/cards`, `public/logos`: static assets
 
 ## Open-Source Notes
-- Third-party sports logos/card photography have been removed and replaced with local placeholders.
 - Asset policy and licensing guidance: [`ASSETS.md`](./ASSETS.md)
 
 ## Contributing / Security / License
